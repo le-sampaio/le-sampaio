@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0007B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/leticia-sampaio-646975236](https://www.linkedin.com/in/leticia-sampaio-646975236))
 
-![Leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=let-sampaio&show_icons=true&theme=radical)
+![Leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=le-sampaio&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=let-sampaio&layout=compact)
 
